@@ -16,7 +16,7 @@ advanced tasks you may wish to do.
 Running ``stdpopsim``
 *********************
 
-.. sec_cli_tute:
+.. _sec_cli_tute:
 
 The command-line interface (CLI)
 ********************************
@@ -111,7 +111,7 @@ Lastly, the CLI also outputs the relevant citations for both the simulator used
 and the resources used for simulation scenario.
 
 
-.. sec_python_tute:
+.. _sec_python_tute:
 
 The Python interface
 *****************************
